@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+## I'm Iven Rolloque. A BSIT student in Polytechnic Uversity of the Philippines (UQ Branch).
 
 <!--
 **Bitcoderr/Bitcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
